@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ilog.rules.studio.model.brl:ActionRule xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ilog.rules.studio.model.brl="http://ilog.rules.studio/model/brl.ecore">
-  <name>Advice Rule</name>
-  <uuid>86d1c4ab-14bb-4cc6-b303-3ead4cc5964b</uuid>
+  <name>storm rule</name>
+  <uuid>f4f3e034-8291-4685-8af9-2b7b019d08ca</uuid>
   <locale>en_US</locale>
   <definition><![CDATA[if
-	Name is not empty 
+	Weather is storm alert
 then
-	set decision to `Hello { 'Name' }! { 'Weather advice' }` ;]]></definition>
+	set decision to "Stay home! There is a storm alert." ;]]></definition>
 </ilog.rules.studio.model.brl:ActionRule>

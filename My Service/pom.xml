@@ -64,6 +64,7 @@
     <modules>
         <module>.decisionservice</module>
         <module>BioMassFuel</module>
+        <module>Data</module>
         <module>My Model</module>
         <module>Test</module>
         <module>Test2</module>
