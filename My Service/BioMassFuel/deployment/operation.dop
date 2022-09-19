@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.ibm.rules.studio.model.decisionservice:Operation xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ibm.rules.studio.model.decisionservice="http://com.ibm.rules.studio/model/decisionservice.ecore" rulesetName="operation" targetRuleProjectName="BioMassFuel">
+  <name>BioMassFuel</name>
+  <uuid>b8c3fe8f-86c6-4f3e-bb63-00c984438c40</uuid>
+  <decisionModel href="../rules/decisionModel.dmo#dec173e9-ddd4-48da-a881-949cb551a4c1"/>
+  <targetRuleProject href="../../BioMassFuel#2aa0599f-75f4-4bda-a1fb-33dde1fadaae"/>
+  <tags key="operationDescription">
+    <value><![CDATA[""]]></value>
+  </tags>
+  <tags key="operationName">
+    <value><![CDATA["BioMassFuel"]]></value>
+  </tags>
+  <tags key="exposedAtRuntime">
+    <value><![CDATA[true]]></value>
+  </tags>
+</com.ibm.rules.studio.model.decisionservice:Operation>
